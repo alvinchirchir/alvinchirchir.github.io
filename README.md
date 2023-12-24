@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 **Alvin Chirchir**  
 - _MSc. Advanced Computer Science (in-progress)_ - Swansea University
 - _BSc. Electrical and Electronics Engineering (awarded)_ - University of Nairobi 
