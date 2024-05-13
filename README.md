@@ -16,9 +16,12 @@ Passionate about working at the convergence of Software, Hardware, and Artificia
 - Smart Prepaid Metering Solutions
   
 ### [Verst Carbon](https://verst.earth/) - Full Stack Software Engineer
-- Wallet as a service
+- Carbon credits platform
 
 ### Side Projects
-- Tunda OS : A minimal written kernel for the 32 bit x86 computer.
-- Tibu : A nature-inspired AI powered Disease Diagnosis Assistant.
+- [Tibu](https://github.com/alvinchirchir/Tibu) : A nature-inspired AI powered Disease Diagnosis Assistant.
+- [Tunda OS](https://github.com/alvinchirchir/TundaOS) : A minimal written kernel for the 32 bit x86 computer.
+
+
+
 
