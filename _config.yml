@@ -2,7 +2,5 @@ title: Alvin Chirchir
 author: Alvin Chirchir
 email: alvinchirchir1@gmail.com
 github_username : alvinchirchir
-# theme: jekyll-theme-cayman
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-cayman
+
