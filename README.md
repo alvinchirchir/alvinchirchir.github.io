@@ -9,14 +9,15 @@ Passionate about working at the convergence of Software, Hardware, and Artificia
 ## Prod Projects
 
 ### [Lipad Technologies](https://lipad.io/) - Senior Software Engineer  
+In charge of:
 - Checkout Payment Gateway  
 - Wallet as a service
 
 ### [Palasy Limited](https://palasy.co.ke/)  - Full Stack Software Engineer
-- Smart Prepaid Metering Solutions
+- Built admin management console and bill pages
   
 ### [Verst Carbon](https://verst.earth/) - Full Stack Software Engineer
-- Carbon credits platform
+- Built admin management console
 
 ### Side Projects
 - [Tibu](https://github.com/alvinchirchir/Tibu) : A nature-inspired AI powered Disease Diagnosis Assistant.
