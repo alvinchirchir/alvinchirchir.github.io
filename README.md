@@ -15,8 +15,7 @@ Passionate about working at the convergence of Software, Hardware, and Artificia
 ### [Palasy Limited](https://palasy.co.ke/)  - Full Stack Software Engineer
 - Smart Prepaid Metering Solutions
   
-### [Verst Carbon](https://verst.earth/)
-_Full Stack Software Engineer
+### [Verst Carbon](https://verst.earth/) - Full Stack Software Engineer
 - Wallet as a service
 
 ### Side Projects
