@@ -1,8 +1,10 @@
 **Alvin Chirchir**  
+Passionate about working at the convergence of Software, Hardware, and Artificial Intelligence.
+
+### Education
 - _MSc. Advanced Computer Science (in-progress)_ - Swansea University
 - _BSc. Electrical and Electronics Engineering (awarded)_ - University of Nairobi 
  
-Passionate about working at the convergence of Software, Hardware, and Artificial Intelligence.
 
 ## Prod Projects
 ### Lipad Payment Gateway Senior Software Engineer  
@@ -11,12 +13,10 @@ Passionate about working at the convergence of Software, Hardware, and Artificia
 
 ### Palasy Limited Full Stack Software Engineer
 - Smart Prepaid Metering Solutions
-
   
 ### Verst Carbon
 - Full Stack Software Engineer
 - Wallet as a service
-
 
 ### Side Projects
 - Tunda OS : A minimal written kernel for the 32 bit x86 computer.
