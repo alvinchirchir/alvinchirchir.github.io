@@ -7,15 +7,15 @@ Passionate about working at the convergence of Software, Hardware, and Artificia
  
 
 ## Prod Projects
-### Lipad Payment Gateway Senior Software Engineer  
+### Lipad Technologies _Senior Software Engineer  
 - Checkout Payment Gateway  
 - Wallet as a service
 
-### Palasy Limited Full Stack Software Engineer
+### Palasy Limited _Full Stack Software Engineer
 - Smart Prepaid Metering Solutions
   
-### Verst Carbon
-- Full Stack Software Engineer
+### Verst Carbon [https://verst.earth/](https://verst.earth/)
+_Full Stack Software Engineer
 - Wallet as a service
 
 ### Side Projects
