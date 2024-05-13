@@ -4,11 +4,20 @@
  
 Passionate about working at the convergence of Software, Hardware, and Artificial Intelligence.
 
+## Production Projects
+Lipad Payment Gateway - Senior Software Engineer  
+- Checkout Payment Gateway  
+- Wallet as a service
+Palasy Limited - Full Stack Software Engineer
+- Smart Prepaid Metering Solutions
+Verst Carbon - Full Stack Software Engineer
+- Wallet as a service
+
+
 ### Selection of Projects
 - Tunda OS : A minimal written kernel for the 32 bit x86 computer.
 - Tibu : A nature-inspired AI powered Disease Diagnosis Assistant.
 
-...many more. To be added...
 
   
 ### Interests
