@@ -2,7 +2,8 @@
 Technical individual keen on pushing the boundaries of science through technology. 
 
 ### Education
-- _MSc. Advanced Computer Science (in-progress)_ - Swansea University
+- _PhD. Electrical and Electronics Engineering (__in-progress__) - Swansea University
+- _MSc. Advanced Computer Science (Distinction) - Swansea University
 - _BSc. Electrical and Electronics Engineering (awarded)_ - University of Nairobi 
  
 
